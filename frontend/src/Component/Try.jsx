@@ -5,7 +5,8 @@ const Try = () => {
   return (
     
     <div><Button variant="text" color="primary">
-      try
+      mechanical
+      physics
     </Button></div>
   )
 }
